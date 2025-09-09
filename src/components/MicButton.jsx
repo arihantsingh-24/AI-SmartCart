@@ -1,14 +1,20 @@
 import React from 'react'
 
-export default function MicButton({ active, onToggle }) {
+export default function MicButton({ active, onToggle, disabled = false }) {
   return (
     <button
       aria-label={active ? 'Stop listening' : 'Start listening'}
       onClick={onToggle}
+      disabled={disabled}
       className={
         `fixed bottom-6 right-6 rounded-full shadow-lg transition-colors` +
         ` h-16 w-16 flex items-center justify-center` +
-        ` ${active ? 'bg-red-500 hover:bg-red-600' : 'bg-brand-600 hover:bg-brand-700'}`
+        ` ${disabled 
+          ? 'bg-gray-400 cursor-not-allowed' 
+          : active 
+            ? 'bg-red-500 hover:bg-red-600' 
+            : 'bg-brand-600 hover:bg-brand-700'
+        }`
       }
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-7 w-7 text-white">

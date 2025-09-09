@@ -30,5 +30,5 @@ export function parseCommand(text) {
     return { action: 'remove', item, quantity: 1 };
   }
 
-  return { action: null, item: null, quantity: 1 };
+  return { action: null, item: null, quantity: 0 };
 }
