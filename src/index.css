@@ -1,0 +1,10 @@
+@import "tailwindcss";
+/* App base layout helpers */
+html, body, #root {
+  height: 100%;
+}
+
+/* Hide default focus outline only when not keyboard-focused; Tailwind handles focus rings */
+:focus:not(:focus-visible) {
+  outline: none;
+} 
