@@ -1,5 +1,5 @@
 import { useCallback, useMemo, useRef, useState } from 'react';
-import { BrowserSpeechRecognizer, GeminiEnhancedRecognizer } from '../services/speech.js';
+import { BrowserSpeechRecognizer } from '../services/speech.js';
 import { GeminiCommandParser, RegexCommandParser } from '../services/gemini.js';
 import { categorizeItem } from '../utils/categories.js';
 
@@ -26,11 +26,8 @@ export function useSpeechRecognition(apiKey) {
 
   // Create speech recognizer
   const recognizer = useMemo(() => {
-    if (apiKey) {
-      return new GeminiEnhancedRecognizer({ apiKey, interim: true });
-    }
     return new BrowserSpeechRecognizer({ interim: true });
-  }, [apiKey]);
+  }, []);
 
   const processCommand = useCallback(async (commandText) => {
     try {

@@ -15,19 +15,32 @@ export class GeminiCommandParser {
 Speech input: "${transcript}"
 
 Extract the following information:
-1. action: "add" or "remove" (based on what the user wants to do)
+1. action: "add", "remove", or "search" (based on what the user wants to do)
 2. item: the specific item name (normalize to singular form, e.g., "apples" -> "apple")
 3. quantity: the number of items (default to 1 if not specified)
+4. filters: object with search criteria (only for search actions)
+
+For search actions, extract these filters:
+- brand: specific brand name
+- minPrice: minimum price (extract numbers from phrases like "under $5", "less than $10")
+- maxPrice: maximum price (extract numbers from phrases like "under $5", "less than $10")
+- category: product category
+- size: product size
+- tags: array of tags like "organic", "fresh", "fruit"
 
 Examples:
 - "add milk" -> {action: "add", item: "milk", quantity: 1}
 - "add 2 bananas" -> {action: "add", item: "banana", quantity: 2}
 - "remove apples" -> {action: "remove", item: "apple", quantity: 1}
 - "I need 3 bottles of water" -> {action: "add", item: "water", quantity: 3}
-- "get me some bread" -> {action: "add", item: "bread", quantity: 1}
-- "delete the milk" -> {action: "remove", item: "milk", quantity: 1}
+- "find organic apples" -> {action: "search", item: "apple", quantity: 1, filters: {tags: ["organic"]}}
+- "search for toothpaste under $5" -> {action: "search", item: "toothpaste", quantity: 1, filters: {maxPrice: 5}}
+- "show me organic apples" -> {action: "search", item: "apple", quantity: 1, filters: {tags: ["organic"]}}
+- "find me some bread" -> {action: "search", item: "bread", quantity: 1}
+- "search for Nike shoes" -> {action: "search", item: "shoes", quantity: 1, filters: {brand: "Nike"}}
+- "find organic food under $10" -> {action: "search", item: "food", quantity: 1, filters: {tags: ["organic"], maxPrice: 10}}
 
-Return ONLY a JSON object with action, item, and quantity. If the command is unclear or not related to shopping, return null.`;
+Return ONLY a JSON object with action, item, quantity, and filters (if applicable). If the command is unclear or not related to shopping, return null.`;
 
     try {
       const response = await fetch(`${this.baseUrl}?key=${this.apiKey}`, {
@@ -90,8 +103,56 @@ export class RegexCommandParser {
     
     const normalized = transcript.trim().toLowerCase();
 
+    // Try search commands first
+    // Search with price filter e.g., "find toothpaste under $5"
+    let match = normalized.match(/^(?:find|search|show\s+me|look\s+for)\s+(.+?)\s+(?:under|below|less\s+than)\s+\$?(\d+(?:\.\d+)?)$/i);
+    if (match) {
+      const item = match[1].trim();
+      const maxPrice = parseFloat(match[2]);
+      return { 
+        action: 'search', 
+        item, 
+        quantity: 1, 
+        filters: { maxPrice } 
+      };
+    }
+
+    // Search with organic/fresh tags e.g., "find organic apples"
+    match = normalized.match(/^(?:find|search|show\s+me|look\s+for)\s+(?:organic|fresh|fruit)\s+(.+)$/i);
+    if (match) {
+      const item = match[1].trim();
+      const tag = normalized.includes('organic') ? 'organic' : 
+                  normalized.includes('fresh') ? 'fresh' : 'fruit';
+      return { 
+        action: 'search', 
+        item, 
+        quantity: 1, 
+        filters: { tags: [tag] } 
+      };
+    }
+
+    // Search with brand e.g., "find Nike shoes"
+    match = normalized.match(/^(?:find|search|show\s+me|look\s+for)\s+(.+?)\s+(?:by\s+)?([A-Za-z]+)$/i);
+    if (match) {
+      const item = match[1].trim();
+      const brand = match[2].trim();
+      return { 
+        action: 'search', 
+        item, 
+        quantity: 1, 
+        filters: { brand } 
+      };
+    }
+
+    // Simple search e.g., "find apples", "search for bread"
+    match = normalized.match(/^(?:find|search|show\s+me|look\s+for)\s+(.+)$/i);
+    if (match) {
+      const item = match[1].trim();
+      return { action: 'search', item, quantity: 1 };
+    }
+
     // Try add with quantity e.g., add 2 bananas
-    let match = normalized.match(/^(?:add|get|buy|need|want)\s+(\d+)\s+(.+)$/i);
+    match = normalized.match(/^(?:add|get|buy|need|want)\s+(\d+)\s+(.+)$/i);
     if (match) {
       const quantity = parseInt(match[1], 10) || 1;
       const item = match[2].trim();

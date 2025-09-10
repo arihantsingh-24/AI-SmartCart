@@ -1,0 +1,3444 @@
+[
+  {
+    "name": "Apple",
+    "brand": "Amul",
+    "description": "Levi\u2019s trusted electronics - mobile product for Indian consumers.",
+    "category": "organic",
+    "price": 40980.28,
+    "size": "250ml",
+    "tags": [
+      "ethnic",
+      "natural",
+      "durable"
+    ]
+  },
+  {
+    "name": "Vim Household - Cleaning Product 2",
+    "brand": "Vim",
+    "description": "Vim trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 348.75,
+    "size": "10",
+    "tags": [
+      "fresh",
+      "chemical-free"
+    ]
+  },
+  {
+    "name": "bread",
+    "brand": "family",
+    "description": "fresh bread",
+    "category": "groceries",
+    "price": 28.11,
+    "size": "300g",
+    "tags": [
+      "ayurvedic",
+      "low-fat"
+    ]
+  },
+  {
+    "name": "Lizol Fashion - Apparel Product 4",
+    "brand": "Lizol",
+    "description": "Lizol trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 1242.01,
+    "size": "1kg",
+    "tags": [
+      "bestseller",
+      "denim"
+    ]
+  },
+  {
+    "name": "Relaxo Bakery Product 5",
+    "brand": "Relaxo",
+    "description": "Relaxo trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 649.34,
+    "size": "250ml",
+    "tags": [
+      "imported",
+      "slip-on",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Relaxo Personal Care Product 6",
+    "brand": "Relaxo",
+    "description": "Relaxo trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 175.92,
+    "size": "XXXL",
+    "tags": [
+      "sugar-free",
+      "chemical-free",
+      "new-arrival"
+    ]
+  },
+  {
+    "name": "Amul Dry Fruits Product 7",
+    "brand": "Amul",
+    "description": "Amul trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 320.25,
+    "size": "9",
+    "tags": [
+      "running",
+      "durable",
+      "ayurvedic",
+      "cotton"
+    ]
+  },
+  {
+    "name": "FabIndia Fashion - Apparel Product 8",
+    "brand": "FabIndia",
+    "description": "FabIndia trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 4720.49,
+    "size": "L",
+    "tags": [
+      "slip-on",
+      "waterproof",
+      "healthy",
+      "value-pack"
+    ]
+  },
+  {
+    "name": "Fresh Apples",
+    "brand": "Farm Fresh",
+    "description": "Juicy red apples sourced directly from Himachal orchards.",
+    "category": "Fruits",
+    "price": 120,
+    "size": "1kg",
+    "tags": ["fresh", "organic"]
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "brand": "Britannia",
+    "description": "Soft and healthy whole wheat bread for everyday use.",
+    "category": "Bakery",
+    "price": 40,
+    "size": "400g",
+    "tags": ["healthy", "fiber-rich"]
+  },
+  {
+    "name": "Bananas",
+    "brand": "Farm Fresh",
+    "description": "Naturally ripened bananas, perfect for daily nutrition.",
+    "category": "Fruits",
+    "price": 60,
+    "size": "1 Dozen",
+    "tags": ["fresh", "organic"]
+  },
+  {
+    "name": "Whole Wheat Atta",
+    "brand": "Aashirvaad",
+    "description": "Premium whole wheat flour for soft and fluffy rotis.",
+    "category": "Food - Pantry",
+    "price": 240,
+    "size": "5kg",
+    "tags": ["staple", "daily-use"]
+  },
+  {
+    "name": "Pepsi",
+    "brand": "PepsiCo",
+    "description": "Refreshing carbonated soft drink.",
+    "category": "Beverages",
+    "price": 40,
+    "size": "750ml",
+    "tags": ["cold-drink", "party"]
+  },
+  {
+    "name": "Organic Basmati Rice",
+    "brand": "24 Mantra",
+    "description": "Certified organic basmati rice, long grain and aromatic.",
+    "category": "Food - Pantry",
+    "price": 950,
+    "size": "5kg",
+    "tags": ["organic", "premium", "healthy"]
+  },
+  {
+    "name": "Shampoo",
+    "brand": "Dove",
+    "description": "Dove Daily Shine Shampoo for soft, shiny hair.",
+    "category": "Personal Care",
+    "price": 180,
+    "size": "340ml",
+    "tags": ["under-200", "daily-use"]
+  },
+  {
+    "name": "Adidas Sneakers",
+    "brand": "Adidas",
+    "description": "Stylish Adidas sneakers for casual wear and sports.",
+    "category": "Fashion - Footwear",
+    "price": 3499,
+    "size": "UK 8",
+    "tags": ["sports", "trending", "bestseller"]
+  },
+  {
+    "name": "Potatoes",
+    "brand": "Farm Fresh",
+    "description": "Locally sourced potatoes, versatile for all Indian cooking.",
+    "category": "Vegetables",
+    "price": 30,
+    "size": "1kg",
+    "tags": ["daily-use", "fresh"]
+  },
+  {
+    "name": "Onions",
+    "brand": "Farm Fresh",
+    "description": "Red onions, fresh and crisp, essential for Indian curries.",
+    "category": "Vegetables",
+    "price": 40,
+    "size": "1kg",
+    "tags": ["fresh", "cooking"]
+  },
+  {
+    "name": "Coca Cola",
+    "brand": "Coca Cola",
+    "description": "Classic Coca Cola soft drink with refreshing taste.",
+    "category": "Beverages",
+    "price": 42,
+    "size": "750ml",
+    "tags": ["cold-drink", "refreshing"]
+  },
+  {
+    "name": "Organic Tomatoes",
+    "brand": "Organic India",
+    "description": "Pesticide-free, naturally grown organic tomatoes.",
+    "category": "Vegetables",
+    "price": 70,
+    "size": "1kg",
+    "tags": ["organic", "fresh"]
+  },
+  {
+    "name": "Patanjali Honey",
+    "brand": "Patanjali",
+    "description": "Pure honey, natural sweetener and immunity booster.",
+    "category": "Food - Pantry",
+    "price": 150,
+    "size": "500g",
+    "tags": ["ayurvedic", "organic", "healthy"]
+  },
+  {
+    "name": "Britannia Rusk",
+    "brand": "Britannia",
+    "description": "Crispy, crunchy tea-time rusks.",
+    "category": "Bakery",
+    "price": 50,
+    "size": "300g",
+    "tags": ["snacks", "tea-time"]
+  },
+  {
+    "name": "Clinic Plus Shampoo",
+    "brand": "Clinic Plus",
+    "description": "Strong & long shampoo, nourishes hair roots.",
+    "category": "Personal Care",
+    "price": 95,
+    "size": "200ml",
+    "tags": ["under-100", "daily-use"]
+  },
+  {
+    "name": "Amul Butter",
+    "brand": "Amul",
+    "description": "Amul salted butter, a favorite spread for bread and cooking.",
+    "category": "Dairy",
+    "price": 55,
+    "size": "100g",
+    "tags": ["dairy", "popular"]
+  },
+  {
+    "name": "Nike Sports T-shirt",
+    "brand": "Nike",
+    "description": "Breathable Nike sports T-shirt for workouts and casual wear.",
+    "category": "Fashion - Apparel",
+    "price": 1999,
+    "size": "L",
+    "tags": ["sportswear", "casual", "bestseller"]
+  },
+  {
+    "name": "Toned Milk",
+    "brand": "Amul",
+    "description": "Amul toned milk with rich nutrients and fresh taste.",
+    "category": "Dairy",
+    "price": 28,
+    "size": "500ml",
+    "tags": ["fresh", "daily-use"]
+  },
+  {
+    "name": "Organic Apples",
+    "brand": "Organic India",
+    "description": "Certified organic apples grown without pesticides.",
+    "category": "Fruits",
+    "price": 180,
+    "size": "1kg",
+    "tags": ["organic", "premium"]
+  },
+  {
+    "name": "Toothpaste",
+    "brand": "Colgate",
+    "description": "Colgate strong teeth toothpaste with calcium boost.",
+    "category": "Personal Care",
+    "price": 95,
+    "size": "100g",
+    "tags": ["oral-care", "under-500"]
+  },
+  {
+    "name": "Running Shoes",
+    "brand": "Nike",
+    "description": "Nike running shoes with breathable mesh and cushioned sole.",
+    "category": "Fashion - Footwear",
+    "price": 2999,
+    "size": "UK 9",
+    "tags": ["sports", "running", "bestseller"]
+  },
+  {
+    "name": "Patanjali Dry Fruits Product 9",
+    "brand": "Patanjali",
+    "description": "Patanjali trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 560.12,
+    "size": "1L",
+    "tags": [
+      "premium",
+      "denim"
+    ]
+  },
+  {
+    "name": "Relaxo Electronics - Appliances Product 10",
+    "brand": "Relaxo",
+    "description": "Relaxo trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 13829.03,
+    "size": "XXXL",
+    "tags": [
+      "paraben-free",
+      "sugar-free",
+      "energy-saving",
+      "wireless"
+    ]
+  },
+  {
+    "name": "Clinic Plus Food - Pantry Product 11",
+    "brand": "Clinic Plus",
+    "description": "Clinic Plus trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 643.01,
+    "size": "XXXL",
+    "tags": [
+      "protein-rich",
+      "chemical-free",
+      "denim",
+      "low-fat"
+    ]
+  },
+  {
+    "name": "Voltas Vegetables Product 12",
+    "brand": "Voltas",
+    "description": "Voltas trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 964.1,
+    "size": "500ml",
+    "tags": [
+      "cotton",
+      "summerwear",
+      "unisex"
+    ]
+  },
+  {
+    "name": "Allen Solly Fruits Product 13",
+    "brand": "Allen Solly",
+    "description": "Allen Solly trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 56.85,
+    "size": "1L",
+    "tags": [
+      "winterwear",
+      "cotton",
+      "wireless"
+    ]
+  },
+  {
+    "name": "Nike Food - Pantry Product 14",
+    "brand": "Nike",
+    "description": "Nike trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 405.66,
+    "size": "M",
+    "tags": [
+      "trending",
+      "wireless",
+      "cold-pressed"
+    ]
+  },
+  {
+    "name": "Surf Excel Food - Pantry Product 15",
+    "brand": "Surf Excel",
+    "description": "Surf Excel trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 430.37,
+    "size": "100ml",
+    "tags": [
+      "fast-charging",
+      "festive"
+    ]
+  },
+  {
+    "name": "Clinic Plus Household - Cleaning Product 16",
+    "brand": "Clinic Plus",
+    "description": "Clinic Plus trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 273.02,
+    "size": "S",
+    "tags": [
+      "new-arrival",
+      "festive",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Aashirvaad Fashion - Apparel Product 17",
+    "brand": "Aashirvaad",
+    "description": "Aashirvaad trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 4055.01,
+    "size": "500ml",
+    "tags": [
+      "lightweight",
+      "festive",
+      "natural"
+    ]
+  },
+  {
+    "name": "MDH Dry Fruits Product 18",
+    "brand": "MDH",
+    "description": "MDH trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 119.74,
+    "size": "XXXL",
+    "tags": [
+      "imported",
+      "running",
+      "cotton"
+    ]
+  },
+  {
+    "name": "Pantaloons Fashion - Footwear Product 19",
+    "brand": "Pantaloons",
+    "description": "Pantaloons trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 917.39,
+    "size": "5kg",
+    "tags": [
+      "waterproof",
+      "herbal",
+      "premium"
+    ]
+  },
+  {
+    "name": "Colin Household - Cleaning Product 20",
+    "brand": "Colin",
+    "description": "Colin trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 435.13,
+    "size": "Free Size",
+    "tags": [
+      "sugar-free",
+      "natural"
+    ]
+  },
+  {
+    "name": "Voltas Dairy Product 21",
+    "brand": "Voltas",
+    "description": "Voltas trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 697.4,
+    "size": "11",
+    "tags": [
+      "waterproof",
+      "premium",
+      "kids",
+      "formal"
+    ]
+  },
+  {
+    "name": "FabIndia Electronics - Mobile Product 22",
+    "brand": "FabIndia",
+    "description": "FabIndia trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 35452.27,
+    "size": "32",
+    "tags": [
+      "anti-dandruff",
+      "natural",
+      "energy-saving",
+      "leather"
+    ]
+  },
+  {
+    "name": "Sony Bakery Product 23",
+    "brand": "Sony",
+    "description": "Sony trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 558.02,
+    "size": "4",
+    "tags": [
+      "chemical-free",
+      "fast-charging",
+      "denim"
+    ]
+  },
+  {
+    "name": "Bata Fashion - Apparel Product 24",
+    "brand": "Bata",
+    "description": "Bata trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 3276.47,
+    "size": "10",
+    "tags": [
+      "ethnic",
+      "sports",
+      "kids",
+      "herbal"
+    ]
+  },
+  {
+    "name": "Woodland Food - Pantry Product 25",
+    "brand": "Woodland",
+    "description": "Woodland trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 190.56,
+    "size": "2L",
+    "tags": [
+      "natural",
+      "paraben-free"
+    ]
+  },
+  {
+    "name": "Dettol Dry Fruits Product 26",
+    "brand": "Dettol",
+    "description": "Dettol trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 756.79,
+    "size": "750ml",
+    "tags": [
+      "handmade",
+      "winterwear"
+    ]
+  },
+  {
+    "name": "Garnier Personal Care Product 27",
+    "brand": "Garnier",
+    "description": "Garnier trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 720.6,
+    "size": "750g",
+    "tags": [
+      "premium",
+      "protein-rich",
+      "running"
+    ]
+  },
+  {
+    "name": "Everest Dairy Product 28",
+    "brand": "Everest",
+    "description": "Everest trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 212.47,
+    "size": "500g",
+    "tags": [
+      "cold-pressed",
+      "summerwear"
+    ]
+  },
+  {
+    "name": "LG Fruits Product 29",
+    "brand": "LG",
+    "description": "LG trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 466.52,
+    "size": "8",
+    "tags": [
+      "summerwear",
+      "ayurvedic"
+    ]
+  },
+  {
+    "name": "Raymond Dairy Product 30",
+    "brand": "Raymond",
+    "description": "Raymond trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 803.43,
+    "size": "42",
+    "tags": [
+      "kids",
+      "natural",
+      "sports",
+      "anti-dandruff"
+    ]
+  },
+  {
+    "name": "Clinic Plus Vegetables Product 31",
+    "brand": "Clinic Plus",
+    "description": "Clinic Plus trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 681.53,
+    "size": "XS",
+    "tags": [
+      "partywear",
+      "formal",
+      "fast-charging",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Van Heusen Household - Cleaning Product 32",
+    "brand": "Van Heusen",
+    "description": "Van Heusen trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 126.57,
+    "size": "28",
+    "tags": [
+      "low-fat",
+      "cold-pressed",
+      "slip-on"
+    ]
+  },
+  {
+    "name": "Red Label Vegetables Product 33",
+    "brand": "Red Label",
+    "description": "Red Label trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 960.83,
+    "size": "9",
+    "tags": [
+      "fresh",
+      "chemical-free",
+      "organic",
+      "unisex"
+    ]
+  },
+  {
+    "name": "Samsung Electronics - Appliances Product 34",
+    "brand": "Samsung",
+    "description": "Samsung trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 8936.47,
+    "size": "7",
+    "tags": [
+      "imported",
+      "leather",
+      "natural"
+    ]
+  },
+  {
+    "name": "MDH Dairy Product 35",
+    "brand": "MDH",
+    "description": "MDH trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 798.24,
+    "size": "38",
+    "tags": [
+      "fast-charging",
+      "ayurvedic",
+      "cold-pressed",
+      "noise-cancelling"
+    ]
+  },
+  {
+    "name": "Samsung Beverages Product 36",
+    "brand": "Samsung",
+    "description": "Samsung trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 429.55,
+    "size": "500ml",
+    "tags": [
+      "protein-rich",
+      "unisex",
+      "leather"
+    ]
+  },
+  {
+    "name": "Surf Excel Electronics - Appliances Product 37",
+    "brand": "Surf Excel",
+    "description": "Surf Excel trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 52226.02,
+    "size": "L",
+    "tags": [
+      "sports",
+      "imported"
+    ]
+  },
+  {
+    "name": "Clinic Plus Fruits Product 38",
+    "brand": "Clinic Plus",
+    "description": "Clinic Plus trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 28.92,
+    "size": "250g",
+    "tags": [
+      "leather",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Levi\u2019s Electronics - Appliances Product 39",
+    "brand": "Levi\u2019s",
+    "description": "Levi\u2019s trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 49481.82,
+    "size": "6",
+    "tags": [
+      "chemical-free",
+      "durable",
+      "value-pack"
+    ]
+  },
+  {
+    "name": "Dettol Bakery Product 40",
+    "brand": "Dettol",
+    "description": "Dettol trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 327.75,
+    "size": "200ml",
+    "tags": [
+      "partywear",
+      "sulfate-free",
+      "handmade",
+      "protein-rich"
+    ]
+  },
+  {
+    "name": "Clinic Plus Electronics - Appliances Product 41",
+    "brand": "Clinic Plus",
+    "description": "Clinic Plus trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 49421.24,
+    "size": "L",
+    "tags": [
+      "noise-cancelling",
+      "moisturizing"
+    ]
+  },
+  {
+    "name": "LG Electronics - Mobile Product 42",
+    "brand": "LG",
+    "description": "LG trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 15186.13,
+    "size": "40",
+    "tags": [
+      "natural",
+      "festive",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Woodland Bakery Product 43",
+    "brand": "Woodland",
+    "description": "Woodland trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 837.96,
+    "size": "250g",
+    "tags": [
+      "slip-on",
+      "partywear"
+    ]
+  },
+  {
+    "name": "Westside Dry Fruits Product 44",
+    "brand": "Westside",
+    "description": "Westside trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 503.11,
+    "size": "34",
+    "tags": [
+      "moisturizing",
+      "kids",
+      "unisex"
+    ]
+  },
+  {
+    "name": "Raymond Fruits Product 45",
+    "brand": "Raymond",
+    "description": "Raymond trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 335.53,
+    "size": "250ml",
+    "tags": [
+      "casual",
+      "gluten-free",
+      "leather",
+      "cold-pressed"
+    ]
+  },
+  {
+    "name": "Pantaloons Household - Cleaning Product 46",
+    "brand": "Pantaloons",
+    "description": "Pantaloons trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 346.47,
+    "size": "2kg",
+    "tags": [
+      "chemical-free",
+      "handmade"
+    ]
+  },
+  {
+    "name": "Himalaya Fashion - Footwear Product 47",
+    "brand": "Himalaya",
+    "description": "Himalaya trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 3939.04,
+    "size": "XXL",
+    "tags": [
+      "handmade",
+      "healthy",
+      "paraben-free",
+      "winterwear"
+    ]
+  },
+  {
+    "name": "Nestl\u00e9 Dry Fruits Product 48",
+    "brand": "Nestl\u00e9",
+    "description": "Nestl\u00e9 trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 410.74,
+    "size": "11",
+    "tags": [
+      "noise-cancelling",
+      "unisex",
+      "anti-dandruff",
+      "sustainable"
+    ]
+  },
+  {
+    "name": "MDH Fashion - Apparel Product 49",
+    "brand": "MDH",
+    "description": "MDH trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 1905.87,
+    "size": "200ml",
+    "tags": [
+      "chemical-free",
+      "protein-rich",
+      "herbal",
+      "summerwear"
+    ]
+  },
+  {
+    "name": "Skechers Household - Cleaning Product 50",
+    "brand": "Skechers",
+    "description": "Skechers trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 105.19,
+    "size": "6",
+    "tags": [
+      "formal",
+      "festive",
+      "waterproof",
+      "natural"
+    ]
+  },
+  {
+    "name": "Westside Personal Care Product 51",
+    "brand": "Westside",
+    "description": "Westside trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 563.32,
+    "size": "38",
+    "tags": [
+      "running",
+      "value-pack",
+      "cotton",
+      "sports"
+    ]
+  },
+  {
+    "name": "Ariel Snacks Product 52",
+    "brand": "Ariel",
+    "description": "Ariel trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 360.26,
+    "size": "40",
+    "tags": [
+      "unisex",
+      "handmade"
+    ]
+  },
+  {
+    "name": "Peter England Fashion - Footwear Product 53",
+    "brand": "Peter England",
+    "description": "Peter England trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 1075.37,
+    "size": "750g",
+    "tags": [
+      "formal",
+      "slip-on"
+    ]
+  },
+  {
+    "name": "Voltas Fashion - Apparel Product 54",
+    "brand": "Voltas",
+    "description": "Voltas trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 2756.27,
+    "size": "Free Size",
+    "tags": [
+      "bestseller",
+      "noise-cancelling"
+    ]
+  },
+  {
+    "name": "Rin Food - Pantry Product 55",
+    "brand": "Rin",
+    "description": "Rin trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 204.7,
+    "size": "34",
+    "tags": [
+      "organic",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Raymond Beverages Product 56",
+    "brand": "Raymond",
+    "description": "Raymond trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 544.5,
+    "size": "XL",
+    "tags": [
+      "winterwear",
+      "slip-on",
+      "ethnic"
+    ]
+  },
+  {
+    "name": "Manyavar Fruits Product 57",
+    "brand": "Manyavar",
+    "description": "Manyavar trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 445.89,
+    "size": "250ml",
+    "tags": [
+      "anti-dandruff",
+      "paraben-free",
+      "noise-cancelling"
+    ]
+  },
+  {
+    "name": "Britannia Bakery Product 58",
+    "brand": "Britannia",
+    "description": "Britannia trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 65.4,
+    "size": "XXXL",
+    "tags": [
+      "protein-rich",
+      "partywear",
+      "gluten-free",
+      "winterwear"
+    ]
+  },
+  {
+    "name": "Harpic Electronics - Mobile Product 59",
+    "brand": "Harpic",
+    "description": "Harpic trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 26142.82,
+    "size": "1L",
+    "tags": [
+      "trending",
+      "premium",
+      "moisturizing"
+    ]
+  },
+  {
+    "name": "Puma Electronics - Appliances Product 60",
+    "brand": "Puma",
+    "description": "Puma trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 55347.41,
+    "size": "50g",
+    "tags": [
+      "natural",
+      "paraben-free",
+      "slip-on",
+      "noise-cancelling"
+    ]
+  },
+  {
+    "name": "Relaxo Dairy Product 61",
+    "brand": "Relaxo",
+    "description": "Relaxo trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 915.1,
+    "size": "34",
+    "tags": [
+      "trending",
+      "new-arrival"
+    ]
+  },
+  {
+    "name": "Garnier Electronics - Mobile Product 62",
+    "brand": "Garnier",
+    "description": "Garnier trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 55640.22,
+    "size": "XXXL",
+    "tags": [
+      "smart",
+      "sugar-free",
+      "vegan",
+      "herbal"
+    ]
+  },
+  {
+    "name": "Vim Electronics - Appliances Product 63",
+    "brand": "Vim",
+    "description": "Vim trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 44058.85,
+    "size": "40",
+    "tags": [
+      "durable",
+      "paraben-free",
+      "running",
+      "formal"
+    ]
+  },
+  {
+    "name": "Reebok Snacks Product 64",
+    "brand": "Reebok",
+    "description": "Reebok trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 222.37,
+    "size": "250ml",
+    "tags": [
+      "natural",
+      "fast-charging",
+      "premium"
+    ]
+  },
+  {
+    "name": "Westside Fruits Product 65",
+    "brand": "Westside",
+    "description": "Westside trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 657.52,
+    "size": "L",
+    "tags": [
+      "lightweight",
+      "festive",
+      "fast-charging",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Godrej Fruits Product 66",
+    "brand": "Godrej",
+    "description": "Godrej trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 962.35,
+    "size": "5",
+    "tags": [
+      "partywear",
+      "healthy",
+      "anti-dandruff"
+    ]
+  },
+  {
+    "name": "Tata Salt Dry Fruits Product 67",
+    "brand": "Tata Salt",
+    "description": "Tata Salt trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 802.61,
+    "size": "5kg",
+    "tags": [
+      "ethnic",
+      "leather"
+    ]
+  },
+  {
+    "name": "Surf Excel Fashion - Footwear Product 68",
+    "brand": "Surf Excel",
+    "description": "Surf Excel trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 3015.82,
+    "size": "5L",
+    "tags": [
+      "denim",
+      "gluten-free",
+      "ethnic",
+      "imported"
+    ]
+  },
+  {
+    "name": "Westside Electronics - Mobile Product 69",
+    "brand": "Westside",
+    "description": "Westside trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 6022.89,
+    "size": "500g",
+    "tags": [
+      "ethnic",
+      "wireless",
+      "unisex",
+      "noise-cancelling"
+    ]
+  },
+  {
+    "name": "Woodland Electronics - Appliances Product 70",
+    "brand": "Woodland",
+    "description": "Woodland trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 37007.6,
+    "size": "42",
+    "tags": [
+      "lightweight",
+      "herbal",
+      "unisex",
+      "ethnic"
+    ]
+  },
+  {
+    "name": "Lizol Electronics - Mobile Product 71",
+    "brand": "Lizol",
+    "description": "Lizol trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 32554.2,
+    "size": "XL",
+    "tags": [
+      "sustainable",
+      "cotton"
+    ]
+  },
+  {
+    "name": "Adidas Household - Cleaning Product 72",
+    "brand": "Adidas",
+    "description": "Adidas trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 340.72,
+    "size": "100g",
+    "tags": [
+      "organic",
+      "chemical-free",
+      "natural"
+    ]
+  },
+  {
+    "name": "Relaxo Vegetables Product 73",
+    "brand": "Relaxo",
+    "description": "Relaxo trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 856.03,
+    "size": "10",
+    "tags": [
+      "chemical-free",
+      "fast-charging",
+      "winterwear",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Tata Salt Dry Fruits Product 74",
+    "brand": "Tata Salt",
+    "description": "Tata Salt trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 432.91,
+    "size": "100g",
+    "tags": [
+      "gluten-free",
+      "cold-pressed",
+      "herbal",
+      "leather"
+    ]
+  },
+  {
+    "name": "Dettol Fashion - Footwear Product 75",
+    "brand": "Dettol",
+    "description": "Dettol trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 2951.92,
+    "size": "1kg",
+    "tags": [
+      "denim",
+      "handmade"
+    ]
+  },
+  {
+    "name": "Vim Dairy Product 76",
+    "brand": "Vim",
+    "description": "Vim trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 333.55,
+    "size": "28",
+    "tags": [
+      "noise-cancelling",
+      "ethnic"
+    ]
+  },
+  {
+    "name": "Relaxo Electronics - Mobile Product 77",
+    "brand": "Relaxo",
+    "description": "Relaxo trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 12951.21,
+    "size": "250g",
+    "tags": [
+      "herbal",
+      "protein-rich",
+      "partywear"
+    ]
+  },
+  {
+    "name": "Aashirvaad Dry Fruits Product 78",
+    "brand": "Aashirvaad",
+    "description": "Aashirvaad trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 19.75,
+    "size": "50g",
+    "tags": [
+      "sustainable",
+      "vegan",
+      "natural",
+      "summerwear"
+    ]
+  },
+  {
+    "name": "L\u2019Or\u00e9al Fruits Product 79",
+    "brand": "L\u2019Or\u00e9al",
+    "description": "L\u2019Or\u00e9al trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 472.78,
+    "size": "500ml",
+    "tags": [
+      "trending",
+      "gluten-free",
+      "formal"
+    ]
+  },
+  {
+    "name": "Godrej Electronics - Mobile Product 80",
+    "brand": "Godrej",
+    "description": "Godrej trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 58905.34,
+    "size": "750g",
+    "tags": [
+      "kids",
+      "low-fat",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Godrej Electronics - Mobile Product 81",
+    "brand": "Godrej",
+    "description": "Godrej trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 26797.54,
+    "size": "8",
+    "tags": [
+      "fresh",
+      "sports",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Surf Excel Personal Care Product 82",
+    "brand": "Surf Excel",
+    "description": "Surf Excel trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 421.24,
+    "size": "S",
+    "tags": [
+      "ethnic",
+      "gluten-free",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Philips Bakery Product 83",
+    "brand": "Philips",
+    "description": "Philips trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 571.29,
+    "size": "5",
+    "tags": [
+      "partywear",
+      "organic",
+      "wireless",
+      "winterwear"
+    ]
+  },
+  {
+    "name": "Godrej Bakery Product 84",
+    "brand": "Godrej",
+    "description": "Godrej trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 34.23,
+    "size": "Free Size",
+    "tags": [
+      "premium",
+      "fresh",
+      "partywear",
+      "value-pack"
+    ]
+  },
+  {
+    "name": "Vim Food - Pantry Product 85",
+    "brand": "Vim",
+    "description": "Vim trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 488.91,
+    "size": "XXL",
+    "tags": [
+      "leather",
+      "kids",
+      "partywear",
+      "anti-dandruff"
+    ]
+  },
+  {
+    "name": "LG Personal Care Product 86",
+    "brand": "LG",
+    "description": "LG trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 631.07,
+    "size": "1L",
+    "tags": [
+      "healthy",
+      "sports"
+    ]
+  },
+  {
+    "name": "Fortune Electronics - Appliances Product 87",
+    "brand": "Fortune",
+    "description": "Fortune trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 51737.38,
+    "size": "50g",
+    "tags": [
+      "cotton",
+      "imported",
+      "smart"
+    ]
+  },
+  {
+    "name": "MDH Vegetables Product 88",
+    "brand": "MDH",
+    "description": "MDH trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 641.53,
+    "size": "250ml",
+    "tags": [
+      "energy-saving",
+      "natural",
+      "imported"
+    ]
+  },
+  {
+    "name": "Voltas Vegetables Product 89",
+    "brand": "Voltas",
+    "description": "Voltas trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 275.11,
+    "size": "2kg",
+    "tags": [
+      "trending",
+      "ethnic",
+      "imported",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Red Label Snacks Product 90",
+    "brand": "Red Label",
+    "description": "Red Label trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 619.29,
+    "size": "2L",
+    "tags": [
+      "sustainable",
+      "imported"
+    ]
+  },
+  {
+    "name": "L\u2019Or\u00e9al Snacks Product 91",
+    "brand": "L\u2019Or\u00e9al",
+    "description": "L\u2019Or\u00e9al trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 346.69,
+    "size": "2kg",
+    "tags": [
+      "vegan",
+      "wireless",
+      "new-arrival"
+    ]
+  },
+  {
+    "name": "Voltas Bakery Product 92",
+    "brand": "Voltas",
+    "description": "Voltas trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 777.02,
+    "size": "4",
+    "tags": [
+      "moisturizing",
+      "cotton",
+      "value-pack"
+    ]
+  },
+  {
+    "name": "Garnier Food - Pantry Product 93",
+    "brand": "Garnier",
+    "description": "Garnier trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 447.25,
+    "size": "34",
+    "tags": [
+      "handmade",
+      "chemical-free",
+      "herbal"
+    ]
+  },
+  {
+    "name": "Havells Bakery Product 94",
+    "brand": "Havells",
+    "description": "Havells trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 747.35,
+    "size": "40",
+    "tags": [
+      "trending",
+      "premium"
+    ]
+  },
+  {
+    "name": "Godrej Snacks Product 95",
+    "brand": "Godrej",
+    "description": "Godrej trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 604.57,
+    "size": "5",
+    "tags": [
+      "slip-on",
+      "energy-saving",
+      "sulfate-free",
+      "lightweight"
+    ]
+  },
+  {
+    "name": "Patanjali Snacks Product 96",
+    "brand": "Patanjali",
+    "description": "Patanjali trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 937.29,
+    "size": "34",
+    "tags": [
+      "energy-saving",
+      "formal",
+      "natural",
+      "denim"
+    ]
+  },
+  {
+    "name": "Nike Household - Cleaning Product 97",
+    "brand": "Nike",
+    "description": "Nike trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 340.15,
+    "size": "750ml",
+    "tags": [
+      "festive",
+      "handmade",
+      "low-fat"
+    ]
+  },
+  {
+    "name": "Ariel Household - Cleaning Product 98",
+    "brand": "Ariel",
+    "description": "Ariel trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 419.41,
+    "size": "9",
+    "tags": [
+      "ayurvedic",
+      "organic",
+      "premium",
+      "value-pack"
+    ]
+  },
+  {
+    "name": "Allen Solly Personal Care Product 99",
+    "brand": "Allen Solly",
+    "description": "Allen Solly trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 239.77,
+    "size": "2kg",
+    "tags": [
+      "sports",
+      "paraben-free",
+      "ethnic"
+    ]
+  },
+  {
+    "name": "Ariel Fruits Product 100",
+    "brand": "Ariel",
+    "description": "Ariel trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 536.87,
+    "size": "XS",
+    "tags": [
+      "cotton",
+      "protein-rich"
+    ]
+  },
+  {
+    "name": "FabIndia Fashion - Footwear Product 101",
+    "brand": "FabIndia",
+    "description": "FabIndia trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 1960.14,
+    "size": "500g",
+    "tags": [
+      "natural",
+      "sustainable",
+      "paraben-free"
+    ]
+  },
+  {
+    "name": "Fortune Beverages Product 102",
+    "brand": "Fortune",
+    "description": "Fortune trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 580.25,
+    "size": "M",
+    "tags": [
+      "premium",
+      "fast-charging",
+      "natural"
+    ]
+  },
+  {
+    "name": "Harpic Snacks Product 103",
+    "brand": "Harpic",
+    "description": "Harpic trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 482.62,
+    "size": "7",
+    "tags": [
+      "festive",
+      "running"
+    ]
+  },
+  {
+    "name": "Skechers Electronics - Appliances Product 104",
+    "brand": "Skechers",
+    "description": "Skechers trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 18221.56,
+    "size": "36",
+    "tags": [
+      "cotton",
+      "paraben-free",
+      "cold-pressed"
+    ]
+  },
+  {
+    "name": "LG Dairy Product 105",
+    "brand": "LG",
+    "description": "LG trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 770.54,
+    "size": "750ml",
+    "tags": [
+      "natural",
+      "value-pack"
+    ]
+  },
+  {
+    "name": "Adidas Dry Fruits Product 106",
+    "brand": "Adidas",
+    "description": "Adidas trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 209.39,
+    "size": "38",
+    "tags": [
+      "kids",
+      "sugar-free",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Parle Food - Pantry Product 107",
+    "brand": "Parle",
+    "description": "Parle trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 762.89,
+    "size": "28",
+    "tags": [
+      "smart",
+      "natural"
+    ]
+  },
+  {
+    "name": "Sony Food - Pantry Product 108",
+    "brand": "Sony",
+    "description": "Sony trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 714.96,
+    "size": "30",
+    "tags": [
+      "running",
+      "slip-on",
+      "fast-charging",
+      "wireless"
+    ]
+  },
+  {
+    "name": "Sony Dairy Product 109",
+    "brand": "Sony",
+    "description": "Sony trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 419.62,
+    "size": "5",
+    "tags": [
+      "cold-pressed",
+      "formal",
+      "imported"
+    ]
+  },
+  {
+    "name": "Sony Dry Fruits Product 110",
+    "brand": "Sony",
+    "description": "Sony trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 443.57,
+    "size": "4",
+    "tags": [
+      "bestseller",
+      "sports"
+    ]
+  },
+  {
+    "name": "Sony Beverages Product 111",
+    "brand": "Sony",
+    "description": "Sony trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 969.39,
+    "size": "2kg",
+    "tags": [
+      "sugar-free",
+      "lightweight"
+    ]
+  },
+  {
+    "name": "Ariel Electronics - Appliances Product 112",
+    "brand": "Ariel",
+    "description": "Ariel trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 13338.69,
+    "size": "10",
+    "tags": [
+      "chemical-free",
+      "ayurvedic",
+      "unisex",
+      "sports"
+    ]
+  },
+  {
+    "name": "Voltas Dairy Product 113",
+    "brand": "Voltas",
+    "description": "Voltas trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 827.9,
+    "size": "36",
+    "tags": [
+      "herbal",
+      "handmade",
+      "slip-on",
+      "new-arrival"
+    ]
+  },
+  {
+    "name": "Lakm\u00e9 Fruits Product 114",
+    "brand": "Lakm\u00e9",
+    "description": "Lakm\u00e9 trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 779.83,
+    "size": "L",
+    "tags": [
+      "fast-charging",
+      "ethnic",
+      "handmade",
+      "value-pack"
+    ]
+  },
+  {
+    "name": "Samsung Food - Pantry Product 115",
+    "brand": "Samsung",
+    "description": "Samsung trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 49.74,
+    "size": "S",
+    "tags": [
+      "casual",
+      "paraben-free",
+      "gluten-free",
+      "kids"
+    ]
+  },
+  {
+    "name": "Red Label Personal Care Product 116",
+    "brand": "Red Label",
+    "description": "Red Label trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 154.73,
+    "size": "38",
+    "tags": [
+      "herbal",
+      "unisex",
+      "smart",
+      "leather"
+    ]
+  },
+  {
+    "name": "Adidas Electronics - Appliances Product 117",
+    "brand": "Adidas",
+    "description": "Adidas trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 46774.57,
+    "size": "5",
+    "tags": [
+      "kids",
+      "herbal",
+      "unisex"
+    ]
+  },
+  {
+    "name": "Samsung Fashion - Apparel Product 118",
+    "brand": "Samsung",
+    "description": "Samsung trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 2969.71,
+    "size": "XXXL",
+    "tags": [
+      "trending",
+      "partywear"
+    ]
+  },
+  {
+    "name": "Vim Beverages Product 119",
+    "brand": "Vim",
+    "description": "Vim trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 377.9,
+    "size": "100ml",
+    "tags": [
+      "imported",
+      "chemical-free",
+      "denim"
+    ]
+  },
+  {
+    "name": "Puma Household - Cleaning Product 120",
+    "brand": "Puma",
+    "description": "Puma trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 55.66,
+    "size": "38",
+    "tags": [
+      "energy-saving",
+      "partywear",
+      "slip-on"
+    ]
+  },
+  {
+    "name": "Tata Salt Beverages Product 121",
+    "brand": "Tata Salt",
+    "description": "Tata Salt trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 663.13,
+    "size": "28",
+    "tags": [
+      "kids",
+      "casual",
+      "summerwear",
+      "premium"
+    ]
+  },
+  {
+    "name": "Rin Personal Care Product 122",
+    "brand": "Rin",
+    "description": "Rin trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 769.21,
+    "size": "XXL",
+    "tags": [
+      "chemical-free",
+      "partywear",
+      "sulfate-free"
+    ]
+  },
+  {
+    "name": "Voltas Household - Cleaning Product 123",
+    "brand": "Voltas",
+    "description": "Voltas trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 259.62,
+    "size": "2kg",
+    "tags": [
+      "low-fat",
+      "fast-charging",
+      "unisex",
+      "noise-cancelling"
+    ]
+  },
+  {
+    "name": "Ponds Beverages Product 124",
+    "brand": "Ponds",
+    "description": "Ponds trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 909.37,
+    "size": "38",
+    "tags": [
+      "unisex",
+      "denim"
+    ]
+  },
+  {
+    "name": "Lakm\u00e9 Vegetables Product 125",
+    "brand": "Lakm\u00e9",
+    "description": "Lakm\u00e9 trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 349.07,
+    "size": "5kg",
+    "tags": [
+      "anti-dandruff",
+      "leather",
+      "moisturizing"
+    ]
+  },
+  {
+    "name": "Peter England Fruits Product 126",
+    "brand": "Peter England",
+    "description": "Peter England trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 671.04,
+    "size": "2kg",
+    "tags": [
+      "noise-cancelling",
+      "fast-charging"
+    ]
+  },
+  {
+    "name": "Red Label Household - Cleaning Product 127",
+    "brand": "Red Label",
+    "description": "Red Label trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 82.44,
+    "size": "5",
+    "tags": [
+      "smart",
+      "paraben-free"
+    ]
+  },
+  {
+    "name": "Garnier Electronics - Appliances Product 128",
+    "brand": "Garnier",
+    "description": "Garnier trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 55402.51,
+    "size": "XS",
+    "tags": [
+      "vegan",
+      "new-arrival",
+      "summerwear",
+      "fast-charging"
+    ]
+  },
+  {
+    "name": "L\u2019Or\u00e9al Dry Fruits Product 129",
+    "brand": "L\u2019Or\u00e9al",
+    "description": "L\u2019Or\u00e9al trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 26.08,
+    "size": "S",
+    "tags": [
+      "handmade",
+      "moisturizing",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Clinic Plus Electronics - Mobile Product 130",
+    "brand": "Clinic Plus",
+    "description": "Clinic Plus trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 35784.3,
+    "size": "36",
+    "tags": [
+      "kids",
+      "formal",
+      "premium"
+    ]
+  },
+  {
+    "name": "Skechers Snacks Product 131",
+    "brand": "Skechers",
+    "description": "Skechers trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 996.57,
+    "size": "7",
+    "tags": [
+      "sugar-free",
+      "durable"
+    ]
+  },
+  {
+    "name": "Havells Food - Pantry Product 132",
+    "brand": "Havells",
+    "description": "Havells trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 505.97,
+    "size": "Free Size",
+    "tags": [
+      "partywear",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Ponds Snacks Product 133",
+    "brand": "Ponds",
+    "description": "Ponds trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 827.21,
+    "size": "9",
+    "tags": [
+      "natural",
+      "protein-rich",
+      "smart",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Ariel Personal Care Product 134",
+    "brand": "Ariel",
+    "description": "Ariel trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 250.15,
+    "size": "2L",
+    "tags": [
+      "value-pack",
+      "handmade",
+      "energy-saving",
+      "fresh"
+    ]
+  },
+  {
+    "name": "L\u2019Or\u00e9al Personal Care Product 135",
+    "brand": "L\u2019Or\u00e9al",
+    "description": "L\u2019Or\u00e9al trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 790.87,
+    "size": "36",
+    "tags": [
+      "bestseller",
+      "ethnic",
+      "organic",
+      "chemical-free"
+    ]
+  },
+  {
+    "name": "Woodland Electronics - Mobile Product 136",
+    "brand": "Woodland",
+    "description": "Woodland trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 37383.53,
+    "size": "6",
+    "tags": [
+      "moisturizing",
+      "ayurvedic",
+      "lightweight",
+      "sustainable"
+    ]
+  },
+  {
+    "name": "Britannia Snacks Product 137",
+    "brand": "Britannia",
+    "description": "Britannia trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 696.56,
+    "size": "250ml",
+    "tags": [
+      "denim",
+      "noise-cancelling"
+    ]
+  },
+  {
+    "name": "Parle Beverages Product 138",
+    "brand": "Parle",
+    "description": "Parle trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 611.77,
+    "size": "250ml",
+    "tags": [
+      "sulfate-free",
+      "fresh",
+      "gluten-free",
+      "new-arrival"
+    ]
+  },
+  {
+    "name": "Skechers Beverages Product 139",
+    "brand": "Skechers",
+    "description": "Skechers trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 910.31,
+    "size": "M",
+    "tags": [
+      "chemical-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Puma Food - Pantry Product 140",
+    "brand": "Puma",
+    "description": "Puma trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 235.48,
+    "size": "34",
+    "tags": [
+      "waterproof",
+      "durable"
+    ]
+  },
+  {
+    "name": "Everest Fashion - Footwear Product 141",
+    "brand": "Everest",
+    "description": "Everest trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 4630.06,
+    "size": "9",
+    "tags": [
+      "fast-charging",
+      "noise-cancelling"
+    ]
+  },
+  {
+    "name": "Nestl\u00e9 Personal Care Product 142",
+    "brand": "Nestl\u00e9",
+    "description": "Nestl\u00e9 trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 602.94,
+    "size": "4",
+    "tags": [
+      "durable",
+      "unisex",
+      "low-fat"
+    ]
+  },
+  {
+    "name": "Nestl\u00e9 Personal Care Product 143",
+    "brand": "Nestl\u00e9",
+    "description": "Nestl\u00e9 trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 244.71,
+    "size": "50g",
+    "tags": [
+      "running",
+      "fresh",
+      "cold-pressed"
+    ]
+  },
+  {
+    "name": "Allen Solly Household - Cleaning Product 144",
+    "brand": "Allen Solly",
+    "description": "Allen Solly trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 135.86,
+    "size": "2kg",
+    "tags": [
+      "cold-pressed",
+      "trending"
+    ]
+  },
+  {
+    "name": "Aashirvaad Food - Pantry Product 145",
+    "brand": "Aashirvaad",
+    "description": "Aashirvaad trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 882.67,
+    "size": "XXL",
+    "tags": [
+      "moisturizing",
+      "chemical-free",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Fortune Beverages Product 146",
+    "brand": "Fortune",
+    "description": "Fortune trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 770.77,
+    "size": "8",
+    "tags": [
+      "energy-saving",
+      "denim"
+    ]
+  },
+  {
+    "name": "Garnier Snacks Product 147",
+    "brand": "Garnier",
+    "description": "Garnier trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 323.25,
+    "size": "100ml",
+    "tags": [
+      "summerwear",
+      "casual"
+    ]
+  },
+  {
+    "name": "Levi\u2019s Fashion - Footwear Product 148",
+    "brand": "Levi\u2019s",
+    "description": "Levi\u2019s trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 3854.48,
+    "size": "750ml",
+    "tags": [
+      "ethnic",
+      "organic",
+      "moisturizing",
+      "premium"
+    ]
+  },
+  {
+    "name": "Levi\u2019s Electronics - Mobile Product 149",
+    "brand": "Levi\u2019s",
+    "description": "Levi\u2019s trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 8102.34,
+    "size": "200g",
+    "tags": [
+      "running",
+      "handmade",
+      "unisex"
+    ]
+  },
+  {
+    "name": "Ponds Dry Fruits Product 150",
+    "brand": "Ponds",
+    "description": "Ponds trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 102.21,
+    "size": "2kg",
+    "tags": [
+      "lightweight",
+      "durable",
+      "moisturizing",
+      "kids"
+    ]
+  },
+  {
+    "name": "Garnier Bakery Product 151",
+    "brand": "Garnier",
+    "description": "Garnier trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 35.22,
+    "size": "50g",
+    "tags": [
+      "protein-rich",
+      "imported",
+      "casual",
+      "summerwear"
+    ]
+  },
+  {
+    "name": "Patanjali Fashion - Footwear Product 152",
+    "brand": "Patanjali",
+    "description": "Patanjali trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 1990.23,
+    "size": "XL",
+    "tags": [
+      "energy-saving",
+      "festive",
+      "low-fat",
+      "casual"
+    ]
+  },
+  {
+    "name": "Nirma Dry Fruits Product 153",
+    "brand": "Nirma",
+    "description": "Nirma trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 402.56,
+    "size": "XXL",
+    "tags": [
+      "cotton",
+      "herbal",
+      "partywear"
+    ]
+  },
+  {
+    "name": "Amul Vegetables Product 154",
+    "brand": "Amul",
+    "description": "Amul trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 963.59,
+    "size": "11",
+    "tags": [
+      "waterproof",
+      "leather",
+      "paraben-free"
+    ]
+  },
+  {
+    "name": "Woodland Electronics - Mobile Product 155",
+    "brand": "Woodland",
+    "description": "Woodland trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 58680.14,
+    "size": "200g",
+    "tags": [
+      "noise-cancelling",
+      "slip-on",
+      "energy-saving",
+      "casual"
+    ]
+  },
+  {
+    "name": "Philips Fruits Product 156",
+    "brand": "Philips",
+    "description": "Philips trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 89.39,
+    "size": "7",
+    "tags": [
+      "kids",
+      "sports",
+      "imported"
+    ]
+  },
+  {
+    "name": "Fortune Household - Cleaning Product 157",
+    "brand": "Fortune",
+    "description": "Fortune trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 166.79,
+    "size": "XS",
+    "tags": [
+      "durable",
+      "wireless",
+      "premium"
+    ]
+  },
+  {
+    "name": "Rin Vegetables Product 158",
+    "brand": "Rin",
+    "description": "Rin trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 621.87,
+    "size": "XS",
+    "tags": [
+      "fresh",
+      "kids",
+      "sports",
+      "paraben-free"
+    ]
+  },
+  {
+    "name": "L\u2019Or\u00e9al Fashion - Footwear Product 159",
+    "brand": "L\u2019Or\u00e9al",
+    "description": "L\u2019Or\u00e9al trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 2666.44,
+    "size": "XXXL",
+    "tags": [
+      "premium",
+      "protein-rich"
+    ]
+  },
+  {
+    "name": "Rin Beverages Product 160",
+    "brand": "Rin",
+    "description": "Rin trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 524.02,
+    "size": "32",
+    "tags": [
+      "unisex",
+      "durable"
+    ]
+  },
+  {
+    "name": "Lakm\u00e9 Fashion - Footwear Product 161",
+    "brand": "Lakm\u00e9",
+    "description": "Lakm\u00e9 trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 1157.21,
+    "size": "200ml",
+    "tags": [
+      "partywear",
+      "fresh",
+      "sports",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Vim Personal Care Product 162",
+    "brand": "Vim",
+    "description": "Vim trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 754.71,
+    "size": "250g",
+    "tags": [
+      "summerwear",
+      "wireless",
+      "partywear",
+      "handmade"
+    ]
+  },
+  {
+    "name": "Himalaya Fashion - Footwear Product 163",
+    "brand": "Himalaya",
+    "description": "Himalaya trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 791.88,
+    "size": "XL",
+    "tags": [
+      "organic",
+      "denim",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Relaxo Fashion - Footwear Product 164",
+    "brand": "Relaxo",
+    "description": "Relaxo trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 2552.21,
+    "size": "500g",
+    "tags": [
+      "natural",
+      "casual"
+    ]
+  },
+  {
+    "name": "Harpic Vegetables Product 165",
+    "brand": "Harpic",
+    "description": "Harpic trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 545.44,
+    "size": "32",
+    "tags": [
+      "gluten-free",
+      "slip-on"
+    ]
+  },
+  {
+    "name": "Philips Electronics - Mobile Product 166",
+    "brand": "Philips",
+    "description": "Philips trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 29358.26,
+    "size": "34",
+    "tags": [
+      "waterproof",
+      "fresh",
+      "handmade",
+      "formal"
+    ]
+  },
+  {
+    "name": "Biba Household - Cleaning Product 167",
+    "brand": "Biba",
+    "description": "Biba trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 69.5,
+    "size": "1kg",
+    "tags": [
+      "chemical-free",
+      "protein-rich",
+      "summerwear"
+    ]
+  },
+  {
+    "name": "Everest Dry Fruits Product 168",
+    "brand": "Everest",
+    "description": "Everest trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 776.9,
+    "size": "50g",
+    "tags": [
+      "paraben-free",
+      "denim",
+      "protein-rich"
+    ]
+  },
+  {
+    "name": "Tata Salt Household - Cleaning Product 169",
+    "brand": "Tata Salt",
+    "description": "Tata Salt trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 325.83,
+    "size": "100ml",
+    "tags": [
+      "summerwear",
+      "sugar-free",
+      "imported"
+    ]
+  },
+  {
+    "name": "Parle Fashion - Footwear Product 170",
+    "brand": "Parle",
+    "description": "Parle trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 4903.06,
+    "size": "2L",
+    "tags": [
+      "bestseller",
+      "durable"
+    ]
+  },
+  {
+    "name": "Clinic Plus Beverages Product 171",
+    "brand": "Clinic Plus",
+    "description": "Clinic Plus trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 313.57,
+    "size": "9",
+    "tags": [
+      "natural",
+      "ayurvedic"
+    ]
+  },
+  {
+    "name": "Raymond Beverages Product 172",
+    "brand": "Raymond",
+    "description": "Raymond trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 894.33,
+    "size": "500ml",
+    "tags": [
+      "anti-dandruff",
+      "fast-charging",
+      "leather",
+      "moisturizing"
+    ]
+  },
+  {
+    "name": "Biba Bakery Product 173",
+    "brand": "Biba",
+    "description": "Biba trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 134.84,
+    "size": "750ml",
+    "tags": [
+      "bestseller",
+      "premium",
+      "partywear"
+    ]
+  },
+  {
+    "name": "Havells Dairy Product 174",
+    "brand": "Havells",
+    "description": "Havells trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 932.34,
+    "size": "5",
+    "tags": [
+      "wireless",
+      "sugar-free",
+      "partywear"
+    ]
+  },
+  {
+    "name": "Adidas Dairy Product 175",
+    "brand": "Adidas",
+    "description": "Adidas trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 179.59,
+    "size": "XL",
+    "tags": [
+      "festive",
+      "sugar-free",
+      "wireless"
+    ]
+  },
+  {
+    "name": "Parle Household - Cleaning Product 176",
+    "brand": "Parle",
+    "description": "Parle trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 370.08,
+    "size": "750g",
+    "tags": [
+      "sustainable",
+      "leather"
+    ]
+  },
+  {
+    "name": "Allen Solly Fruits Product 177",
+    "brand": "Allen Solly",
+    "description": "Allen Solly trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 730.97,
+    "size": "M",
+    "tags": [
+      "energy-saving",
+      "formal"
+    ]
+  },
+  {
+    "name": "Samsung Household - Cleaning Product 178",
+    "brand": "Samsung",
+    "description": "Samsung trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 280.11,
+    "size": "5L",
+    "tags": [
+      "durable",
+      "unisex",
+      "protein-rich"
+    ]
+  },
+  {
+    "name": "Westside Dairy Product 179",
+    "brand": "Westside",
+    "description": "Westside trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 886.06,
+    "size": "100g",
+    "tags": [
+      "gluten-free",
+      "kids"
+    ]
+  },
+  {
+    "name": "Dettol Food - Pantry Product 180",
+    "brand": "Dettol",
+    "description": "Dettol trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 816.86,
+    "size": "XXL",
+    "tags": [
+      "fresh",
+      "healthy",
+      "natural"
+    ]
+  },
+  {
+    "name": "Patanjali Vegetables Product 181",
+    "brand": "Patanjali",
+    "description": "Patanjali trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 338.09,
+    "size": "XS",
+    "tags": [
+      "running",
+      "wireless"
+    ]
+  },
+  {
+    "name": "Ariel Beverages Product 182",
+    "brand": "Ariel",
+    "description": "Ariel trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 963.28,
+    "size": "40",
+    "tags": [
+      "trending",
+      "casual",
+      "festive",
+      "formal"
+    ]
+  },
+  {
+    "name": "Nestl\u00e9 Fashion - Footwear Product 183",
+    "brand": "Nestl\u00e9",
+    "description": "Nestl\u00e9 trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 2481.27,
+    "size": "40",
+    "tags": [
+      "trending",
+      "vegan",
+      "smart",
+      "formal"
+    ]
+  },
+  {
+    "name": "Lakm\u00e9 Fruits Product 184",
+    "brand": "Lakm\u00e9",
+    "description": "Lakm\u00e9 trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 316.02,
+    "size": "L",
+    "tags": [
+      "casual",
+      "formal",
+      "paraben-free",
+      "slip-on"
+    ]
+  },
+  {
+    "name": "Lakm\u00e9 Fashion - Apparel Product 185",
+    "brand": "Lakm\u00e9",
+    "description": "Lakm\u00e9 trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 1701.62,
+    "size": "M",
+    "tags": [
+      "winterwear",
+      "waterproof",
+      "herbal"
+    ]
+  },
+  {
+    "name": "Reebok Bakery Product 186",
+    "brand": "Reebok",
+    "description": "Reebok trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 361.94,
+    "size": "1kg",
+    "tags": [
+      "vegan",
+      "sports"
+    ]
+  },
+  {
+    "name": "Garnier Snacks Product 187",
+    "brand": "Garnier",
+    "description": "Garnier trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 639.84,
+    "size": "XXXL",
+    "tags": [
+      "paraben-free",
+      "value-pack",
+      "cold-pressed"
+    ]
+  },
+  {
+    "name": "Clinic Plus Electronics - Appliances Product 188",
+    "brand": "Clinic Plus",
+    "description": "Clinic Plus trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 29184.72,
+    "size": "500g",
+    "tags": [
+      "kids",
+      "sustainable",
+      "festive"
+    ]
+  },
+  {
+    "name": "Surf Excel Snacks Product 189",
+    "brand": "Surf Excel",
+    "description": "Surf Excel trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 857.14,
+    "size": "XXXL",
+    "tags": [
+      "gluten-free",
+      "ethnic",
+      "slip-on"
+    ]
+  },
+  {
+    "name": "Peter England Beverages Product 190",
+    "brand": "Peter England",
+    "description": "Peter England trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 231.9,
+    "size": "10",
+    "tags": [
+      "kids",
+      "handmade"
+    ]
+  },
+  {
+    "name": "Whirlpool Dairy Product 191",
+    "brand": "Whirlpool",
+    "description": "Whirlpool trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 126.87,
+    "size": "XS",
+    "tags": [
+      "wireless",
+      "noise-cancelling",
+      "waterproof",
+      "casual"
+    ]
+  },
+  {
+    "name": "Sunsilk Household - Cleaning Product 192",
+    "brand": "Sunsilk",
+    "description": "Sunsilk trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 97.74,
+    "size": "XXL",
+    "tags": [
+      "slip-on",
+      "healthy",
+      "handmade"
+    ]
+  },
+  {
+    "name": "Biba Beverages Product 193",
+    "brand": "Biba",
+    "description": "Biba trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 560.56,
+    "size": "1L",
+    "tags": [
+      "anti-dandruff",
+      "partywear",
+      "chemical-free",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Nirma Fruits Product 194",
+    "brand": "Nirma",
+    "description": "Nirma trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 327.36,
+    "size": "30",
+    "tags": [
+      "cotton",
+      "slip-on",
+      "value-pack",
+      "summerwear"
+    ]
+  },
+  {
+    "name": "Colin Fashion - Apparel Product 195",
+    "brand": "Colin",
+    "description": "Colin trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 1241.02,
+    "size": "5",
+    "tags": [
+      "moisturizing",
+      "sports"
+    ]
+  },
+  {
+    "name": "Dove Fashion - Apparel Product 196",
+    "brand": "Dove",
+    "description": "Dove trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 1921.6,
+    "size": "8",
+    "tags": [
+      "moisturizing",
+      "partywear"
+    ]
+  },
+  {
+    "name": "Woodland Electronics - Mobile Product 197",
+    "brand": "Woodland",
+    "description": "Woodland trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 56045.04,
+    "size": "32",
+    "tags": [
+      "organic",
+      "sulfate-free"
+    ]
+  },
+  {
+    "name": "Van Heusen Personal Care Product 198",
+    "brand": "Van Heusen",
+    "description": "Van Heusen trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 653.29,
+    "size": "XXXL",
+    "tags": [
+      "ethnic",
+      "ayurvedic",
+      "anti-dandruff",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Puma Snacks Product 199",
+    "brand": "Puma",
+    "description": "Puma trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 341.56,
+    "size": "28",
+    "tags": [
+      "herbal",
+      "kids",
+      "durable",
+      "new-arrival"
+    ]
+  },
+  {
+    "name": "Clinic Plus Fashion - Apparel Product 200",
+    "brand": "Clinic Plus",
+    "description": "Clinic Plus trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 1654.57,
+    "size": "50g",
+    "tags": [
+      "summerwear",
+      "slip-on",
+      "wireless"
+    ]
+  },
+  {
+    "name": "Voltas Electronics - Appliances Product 201",
+    "brand": "Voltas",
+    "description": "Voltas trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 57018.44,
+    "size": "200ml",
+    "tags": [
+      "vegan",
+      "chemical-free",
+      "leather"
+    ]
+  },
+  {
+    "name": "Woodland Electronics - Mobile Product 202",
+    "brand": "Woodland",
+    "description": "Woodland trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 38668.98,
+    "size": "8",
+    "tags": [
+      "anti-dandruff",
+      "winterwear"
+    ]
+  },
+  {
+    "name": "Biba Beverages Product 203",
+    "brand": "Biba",
+    "description": "Biba trusted beverages product for Indian consumers.",
+    "category": "Beverages",
+    "price": 129.62,
+    "size": "32",
+    "tags": [
+      "handmade",
+      "noise-cancelling",
+      "low-fat"
+    ]
+  },
+  {
+    "name": "Rin Dry Fruits Product 204",
+    "brand": "Rin",
+    "description": "Rin trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 543.45,
+    "size": "28",
+    "tags": [
+      "ayurvedic",
+      "energy-saving",
+      "vegan"
+    ]
+  },
+  {
+    "name": "FabIndia Vegetables Product 205",
+    "brand": "FabIndia",
+    "description": "FabIndia trusted vegetables product for Indian consumers.",
+    "category": "Vegetables",
+    "price": 96.14,
+    "size": "1kg",
+    "tags": [
+      "paraben-free",
+      "sustainable",
+      "smart"
+    ]
+  },
+  {
+    "name": "Tata Salt Personal Care Product 206",
+    "brand": "Tata Salt",
+    "description": "Tata Salt trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 307.61,
+    "size": "2L",
+    "tags": [
+      "lightweight",
+      "fresh",
+      "imported",
+      "denim"
+    ]
+  },
+  {
+    "name": "Vim Dairy Product 207",
+    "brand": "Vim",
+    "description": "Vim trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 434.26,
+    "size": "34",
+    "tags": [
+      "lightweight",
+      "organic"
+    ]
+  },
+  {
+    "name": "Voltas Fashion - Apparel Product 208",
+    "brand": "Voltas",
+    "description": "Voltas trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 2042.92,
+    "size": "40",
+    "tags": [
+      "fast-charging",
+      "kids",
+      "protein-rich",
+      "herbal"
+    ]
+  },
+  {
+    "name": "Pantaloons Electronics - Mobile Product 209",
+    "brand": "Pantaloons",
+    "description": "Pantaloons trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 55143.62,
+    "size": "XL",
+    "tags": [
+      "herbal",
+      "new-arrival",
+      "partywear"
+    ]
+  },
+  {
+    "name": "Raymond Bakery Product 210",
+    "brand": "Raymond",
+    "description": "Raymond trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 142.08,
+    "size": "S",
+    "tags": [
+      "anti-dandruff",
+      "denim",
+      "lightweight",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Philips Household - Cleaning Product 211",
+    "brand": "Philips",
+    "description": "Philips trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 398.77,
+    "size": "250g",
+    "tags": [
+      "energy-saving",
+      "trending"
+    ]
+  },
+  {
+    "name": "Rin Bakery Product 212",
+    "brand": "Rin",
+    "description": "Rin trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 349.57,
+    "size": "5",
+    "tags": [
+      "sports",
+      "handmade",
+      "wireless",
+      "anti-dandruff"
+    ]
+  },
+  {
+    "name": "Lakm\u00e9 Dairy Product 213",
+    "brand": "Lakm\u00e9",
+    "description": "Lakm\u00e9 trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 554.54,
+    "size": "36",
+    "tags": [
+      "organic",
+      "running",
+      "chemical-free"
+    ]
+  },
+  {
+    "name": "Patanjali Bakery Product 214",
+    "brand": "Patanjali",
+    "description": "Patanjali trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 207.56,
+    "size": "2L",
+    "tags": [
+      "chemical-free",
+      "natural",
+      "unisex"
+    ]
+  },
+  {
+    "name": "Lizol Snacks Product 215",
+    "brand": "Lizol",
+    "description": "Lizol trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 583.63,
+    "size": "6",
+    "tags": [
+      "summerwear",
+      "partywear"
+    ]
+  },
+  {
+    "name": "Westside Fashion - Apparel Product 216",
+    "brand": "Westside",
+    "description": "Westside trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 2201.92,
+    "size": "750g",
+    "tags": [
+      "energy-saving",
+      "low-fat",
+      "chemical-free",
+      "moisturizing"
+    ]
+  },
+  {
+    "name": "Sunsilk Dry Fruits Product 217",
+    "brand": "Sunsilk",
+    "description": "Sunsilk trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 241.75,
+    "size": "30",
+    "tags": [
+      "wireless",
+      "partywear",
+      "organic",
+      "slip-on"
+    ]
+  },
+  {
+    "name": "Sunsilk Dairy Product 218",
+    "brand": "Sunsilk",
+    "description": "Sunsilk trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 511.0,
+    "size": "28",
+    "tags": [
+      "healthy",
+      "leather",
+      "noise-cancelling"
+    ]
+  },
+  {
+    "name": "Reebok Electronics - Appliances Product 219",
+    "brand": "Reebok",
+    "description": "Reebok trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 23826.39,
+    "size": "10",
+    "tags": [
+      "organic",
+      "sugar-free",
+      "energy-saving"
+    ]
+  },
+  {
+    "name": "Lakm\u00e9 Electronics - Mobile Product 220",
+    "brand": "Lakm\u00e9",
+    "description": "Lakm\u00e9 trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 34325.76,
+    "size": "2kg",
+    "tags": [
+      "summerwear",
+      "chemical-free",
+      "imported",
+      "natural"
+    ]
+  },
+  {
+    "name": "Raymond Dairy Product 221",
+    "brand": "Raymond",
+    "description": "Raymond trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 810.46,
+    "size": "1L",
+    "tags": [
+      "new-arrival",
+      "wireless"
+    ]
+  },
+  {
+    "name": "L\u2019Or\u00e9al Fashion - Footwear Product 222",
+    "brand": "L\u2019Or\u00e9al",
+    "description": "L\u2019Or\u00e9al trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 2886.94,
+    "size": "100g",
+    "tags": [
+      "ayurvedic",
+      "anti-dandruff",
+      "organic",
+      "energy-saving"
+    ]
+  },
+  {
+    "name": "Dettol Household - Cleaning Product 223",
+    "brand": "Dettol",
+    "description": "Dettol trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 98.61,
+    "size": "32",
+    "tags": [
+      "cold-pressed",
+      "fresh",
+      "energy-saving"
+    ]
+  },
+  {
+    "name": "Van Heusen Fashion - Footwear Product 224",
+    "brand": "Van Heusen",
+    "description": "Van Heusen trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 4535.84,
+    "size": "1kg",
+    "tags": [
+      "new-arrival",
+      "low-fat",
+      "lightweight",
+      "formal"
+    ]
+  },
+  {
+    "name": "Relaxo Personal Care Product 225",
+    "brand": "Relaxo",
+    "description": "Relaxo trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 394.77,
+    "size": "L",
+    "tags": [
+      "summerwear",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Rin Bakery Product 226",
+    "brand": "Rin",
+    "description": "Rin trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 892.18,
+    "size": "10",
+    "tags": [
+      "herbal",
+      "trending",
+      "kids"
+    ]
+  },
+  {
+    "name": "Samsung Electronics - Mobile Product 227",
+    "brand": "Samsung",
+    "description": "Samsung trusted electronics - mobile product for Indian consumers.",
+    "category": "Electronics - Mobile",
+    "price": 14024.59,
+    "size": "8",
+    "tags": [
+      "gluten-free",
+      "ayurvedic",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Sony Dry Fruits Product 228",
+    "brand": "Sony",
+    "description": "Sony trusted dry fruits product for Indian consumers.",
+    "category": "Dry Fruits",
+    "price": 89.9,
+    "size": "28",
+    "tags": [
+      "formal",
+      "natural",
+      "slip-on"
+    ]
+  },
+  {
+    "name": "Skechers Bakery Product 229",
+    "brand": "Skechers",
+    "description": "Skechers trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 779.04,
+    "size": "5kg",
+    "tags": [
+      "cold-pressed",
+      "festive",
+      "slip-on",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Reebok Bakery Product 230",
+    "brand": "Reebok",
+    "description": "Reebok trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 785.03,
+    "size": "5L",
+    "tags": [
+      "smart",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Godrej Snacks Product 231",
+    "brand": "Godrej",
+    "description": "Godrej trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 647.47,
+    "size": "S",
+    "tags": [
+      "cold-pressed",
+      "kids",
+      "smart"
+    ]
+  },
+  {
+    "name": "Skechers Bakery Product 232",
+    "brand": "Skechers",
+    "description": "Skechers trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 677.9,
+    "size": "750ml",
+    "tags": [
+      "moisturizing",
+      "noise-cancelling",
+      "fresh"
+    ]
+  },
+  {
+    "name": "L\u2019Or\u00e9al Fashion - Footwear Product 233",
+    "brand": "L\u2019Or\u00e9al",
+    "description": "L\u2019Or\u00e9al trusted fashion - footwear product for Indian consumers.",
+    "category": "Fashion - Footwear",
+    "price": 763.79,
+    "size": "750g",
+    "tags": [
+      "waterproof",
+      "value-pack"
+    ]
+  },
+  {
+    "name": "Voltas Dairy Product 234",
+    "brand": "Voltas",
+    "description": "Voltas trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 214.35,
+    "size": "7",
+    "tags": [
+      "anti-dandruff",
+      "herbal"
+    ]
+  },
+  {
+    "name": "L\u2019Or\u00e9al Dairy Product 235",
+    "brand": "L\u2019Or\u00e9al",
+    "description": "L\u2019Or\u00e9al trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 365.27,
+    "size": "XXXL",
+    "tags": [
+      "organic",
+      "lightweight"
+    ]
+  },
+  {
+    "name": "FabIndia Fruits Product 236",
+    "brand": "FabIndia",
+    "description": "FabIndia trusted fruits product for Indian consumers.",
+    "category": "Fruits",
+    "price": 279.1,
+    "size": "11",
+    "tags": [
+      "fresh",
+      "premium",
+      "kids"
+    ]
+  },
+  {
+    "name": "Puma Personal Care Product 237",
+    "brand": "Puma",
+    "description": "Puma trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 564.81,
+    "size": "1L",
+    "tags": [
+      "fresh",
+      "healthy"
+    ]
+  },
+  {
+    "name": "FabIndia Household - Cleaning Product 238",
+    "brand": "FabIndia",
+    "description": "FabIndia trusted household - cleaning product for Indian consumers.",
+    "category": "Household - Cleaning",
+    "price": 398.59,
+    "size": "36",
+    "tags": [
+      "energy-saving",
+      "value-pack",
+      "slip-on"
+    ]
+  },
+  {
+    "name": "Garnier Fashion - Apparel Product 239",
+    "brand": "Garnier",
+    "description": "Garnier trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 3320.2,
+    "size": "XXL",
+    "tags": [
+      "ethnic",
+      "festive"
+    ]
+  },
+  {
+    "name": "FabIndia Bakery Product 240",
+    "brand": "FabIndia",
+    "description": "FabIndia trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 870.39,
+    "size": "L",
+    "tags": [
+      "anti-dandruff",
+      "leather",
+      "protein-rich"
+    ]
+  },
+  {
+    "name": "Colin Electronics - Appliances Product 241",
+    "brand": "Colin",
+    "description": "Colin trusted electronics - appliances product for Indian consumers.",
+    "category": "Electronics - Appliances",
+    "price": 35824.76,
+    "size": "XXXL",
+    "tags": [
+      "sustainable",
+      "durable"
+    ]
+  },
+  {
+    "name": "Samsung Fashion - Apparel Product 242",
+    "brand": "Samsung",
+    "description": "Samsung trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 817.03,
+    "size": "36",
+    "tags": [
+      "slip-on",
+      "summerwear"
+    ]
+  },
+  {
+    "name": "Dettol Snacks Product 243",
+    "brand": "Dettol",
+    "description": "Dettol trusted snacks product for Indian consumers.",
+    "category": "Snacks",
+    "price": 192.63,
+    "size": "250ml",
+    "tags": [
+      "durable",
+      "imported",
+      "waterproof",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Skechers Bakery Product 244",
+    "brand": "Skechers",
+    "description": "Skechers trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 579.48,
+    "size": "8",
+    "tags": [
+      "sustainable",
+      "new-arrival",
+      "low-fat",
+      "anti-dandruff"
+    ]
+  },
+  {
+    "name": "Rin Bakery Product 245",
+    "brand": "Rin",
+    "description": "Rin trusted bakery product for Indian consumers.",
+    "category": "Bakery",
+    "price": 520.88,
+    "size": "1L",
+    "tags": [
+      "low-fat",
+      "imported",
+      "herbal"
+    ]
+  },
+  {
+    "name": "Nestl\u00e9 Fashion - Apparel Product 246",
+    "brand": "Nestl\u00e9",
+    "description": "Nestl\u00e9 trusted fashion - apparel product for Indian consumers.",
+    "category": "Fashion - Apparel",
+    "price": 2327.71,
+    "size": "XXL",
+    "tags": [
+      "organic",
+      "low-fat"
+    ]
+  },
+  {
+    "name": "Reebok Dairy Product 247",
+    "brand": "Reebok",
+    "description": "Reebok trusted dairy product for Indian consumers.",
+    "category": "Dairy",
+    "price": 463.7,
+    "size": "30",
+    "tags": [
+      "healthy",
+      "low-fat"
+    ]
+  },
+  {
+    "name": "Voltas Personal Care Product 248",
+    "brand": "Voltas",
+    "description": "Voltas trusted personal care product for Indian consumers.",
+    "category": "Personal Care",
+    "price": 388.04,
+    "size": "40",
+    "tags": [
+      "gluten-free",
+      "premium",
+      "energy-saving",
+      "new-arrival"
+    ]
+  },
+  {
+    "name": "Sunsilk Food - Pantry Product 249",
+    "brand": "Sunsilk",
+    "description": "Sunsilk trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 722.3,
+    "size": "L",
+    "tags": [
+      "vegan",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Himalaya Food - Pantry Product 250",
+    "brand": "Himalaya",
+    "description": "Himalaya trusted food - pantry product for Indian consumers.",
+    "category": "Food - Pantry",
+    "price": 16.78,
+    "size": "4",
+    "tags": [
+      "waterproof",
+      "ayurvedic",
+      "bestseller"
+    ]
+  }
+]
