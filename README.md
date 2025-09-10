@@ -219,4 +219,4 @@ For support, email arihant.singh0907@gmail.com or create an issue in the reposit
 
 **Built with ❤️ using React, AI, and modern web technologies**
 
-[Live Demo](https://ai-smart-cart.vercel.app/) | [GitHub Repository](https://github.com/your-username/ai-smart-cart) | [Documentation](https://github.com/your-username/ai-smart-cart/wiki)
+[Live Demo](https://ai-smart-cart.vercel.app/) | [GitHub Repository](https://github.com/arihantsingh-24/AI-SmartCart) | [Documentation](https://github.com/arihantsingh-24/AI-SmartCart/wiki)
